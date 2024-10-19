@@ -1,0 +1,56 @@
+Doctor : Actor
+Baker : Quaker
+Teacher : Preacher
+Painter : Waiter
+Driver : Striver
+Singer : Ringer
+Dancer : Prancer
+Nurse : Purse
+Farmer : Charmer
+Writer : Fighter
+Lawyer : Sawyer
+Actor : Reactor
+Builder : Chiller
+Scientist : Pianist
+Pilot : Riot
+Mechanic : Panic
+Barber : Carver
+Waiter : Gator
+Artist : Fartist
+Coach : Roach
+Clown : Crown
+Magician : Technician
+Chef : Jeff
+Sailor : Tailor
+Soldier : Holder
+Engineer : Peer
+Architect : Direct
+Musician : Technician
+Athlete : Elite
+Comedian : Median
+Dentist : List
+Veterinarian : Librarian
+Firefighter : Writer
+Police Officer : Officer
+Nurse Practitioner : Preacher
+Pharmacist : Artist
+Optometrist : Specialist
+Chiropractor : Actor
+Massage Therapist : Artist
+Personal Trainer : Container
+Event Planner : Scanner
+Graphic Designer : Liner
+Software Engineer : Cleaner
+Data Analyst : Catalyst
+Marketing Specialist : List
+Human Resources : Courses
+Sales Representative : Demonstrative
+Customer Service : Curative
+Accountant : Accountant
+Financial Advisor : Advisor
+Travel Agent : Agent
+Real Estate Agent : Agent
+Insurance Agent : Agent
+Web Developer : Reliever
+Cyber Security : Purity
+Network Administrator : Curator
