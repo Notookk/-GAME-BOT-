@@ -1,0 +1,3 @@
+python-telegram-bot==20.3
+PyJWT==2.8.0  # For TokenManager (managing tokens)
+python-dotenv==1.0.0  # For environment variables, if needed
