@@ -1,0 +1,75 @@
+Basketball : Handball
+Football : Foosball
+Baseball : Softball
+Hockey : Hurling
+Tennis : Padel
+Golf : Croquet
+Rugby : Buggy
+Volleyball : Sepak Takraw
+Skiing : Skimboarding
+Swimming : Diving
+Wrestling : Grappling
+Cycling : Biking
+Running : Jogging
+Gymnastics : Rhythmic Gymnastics
+Surfing : Kitesurfing
+Boxing : Kickboxing
+Martial Arts : Mixed Martial Arts
+Lacrosse : Cross Lacrosse
+Rowing : Sculling
+Fencing : Defencing
+Billiards : Pool
+Badminton : Padel
+Dodgeball : Gutsball
+Archery : Archery Tag
+Sailing : Yachting
+Equestrian : Equestrian Vaulting
+Track and Field : Field Events
+Skating : Ice Skating
+Polo : Water Polo
+Cricket : Wicket
+Rugby : Rugby League
+Skiing : Ski Jumping
+Ice Hockey : Ice Skating
+Motor Racing : Auto Racing
+Ultimate Frisbee : Guts Frisbee
+Cheerleading : Cheer Dance
+Softball : Slowpitch Softball
+BMX : BMX Racing
+Kitesurfing : Windsurfing
+Snowboarding : Snow Skiing
+Speed Skating : Figure Skating
+Handball : Beach Handball
+Skimboarding : Wakeboarding
+Paddleboarding : Stand-Up Paddleboarding
+Curling : Ice Curling
+Netball : Fast5 Netball
+Triathlon : Duathlon
+Climbing : Rock Climbing
+Parkour : Freerunning
+Synchronized Swimming : Artistic Swimming
+Floorball : Indoor Hockey
+Futsal : Indoor Soccer
+Table Tennis : Ping Pong
+Diving : High Diving
+Base Jumping : Skydiving
+Freestyle : Freestyle Wrestling
+Paddleball : Pickleball
+Powerlifting : Olympic Weightlifting
+Shooting : Target Shooting
+Skateboarding : Longboarding
+Surf Kayaking : Kayaking
+Ballet : Dance
+Rugby : Rugby Union
+Speedwalking : Racewalking
+Mixed Martial Arts : MMA
+Dodgeball : Dodge Frisbee
+Crossfit : Functional Fitness
+Kettlebell : Dumbbell
+Bodybuilding : Physique Competition
+Capoeira : Brazilian Jiu-Jitsu
+Bouldering : Rock Climbing
+Judo : Brazilian Jiu-Jitsu
+Orienteering : Adventure Racing
+Sailing : Dinghy Sailing
+Mountain Biking : Trail Biking
